@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schemas/gexf.rnc" type="application/relax-ng-compact-syntax"?>
+<gexf xmlns:xsi="http://www.w3.org/2001/XMLSchema−instance"
+      xmlns="http://www.gexf.net/1.2draft"
+      version="1.2">
+   <meta lastmodifieddate="2009-03-20">
+      <creator>ANR Experts</creator>
+      <description>1726 network</description>
+   </meta>
+   <graph defaultedgetype="undirected">
+      <nodes>
+         <node id="xpr0014" label="Beausire, Jean"/>
+         <node id="xpr0015" label="Belhomme, Maurice"/>
+         <node id="xpr0017" label="Benoist, Louis"/>
+         <node id="xpr0018" label="Bernard, Charles"/>
+         <node id="xpr0048" label="Caulle, Martin"/>
+         <node id="xpr0051" label="Chastelain, Nicolas Isidore"/>
+         <node id="xpr0054" label="Chauveau, René Bonaventure"/>
+         <node id="xpr0063" label="Cudeville, Jacques"/>
+         <node id="xpr0073" label="De Bias Aubry, François"/>
+         <node id="xpr0074" label="De La Croix, Philémon"/>
+         <node id="xpr0078" label="De Mezeretz (Fils), Charles Philippe"/>
+         <node id="xpr0086" label="Delespine, Nicolas"/>
+         <node id="xpr0097" label="Doucet, Jacques"/>
+         <node id="xpr0100" label="Dubois, Jean"/>
+         <node id="xpr0105" label="Duval, Charles"/>
+         <node id="xpr0108" label="Fauvel, Jean"/>
+         <node id="xpr0111" label="Fourier, Edme"/>
+         <node id="xpr0112" label="Fremiot, Nicolas"/>
+         <node id="xpr0113" label="Frosne, Jean Luc"/>
+         <node id="xpr0118" label="Gerard De Montbrouard, Claude Jacques"/>
+         <node id="xpr0145" label="Jacquot De Villeneuve, Pierre"/>
+         <node id="xpr0147" label="Joubert, Louis"/>
+         <node id="xpr0158" label="Le Brun, Jacques Charles"/>
+         <node id="xpr0160" label="Le Chauve, Brice"/>
+         <node id="xpr0171" label="Le Sueur, Adrien"/>
+         <node id="xpr0179" label="Lepas Dubuisson, Jacques (II)"/>
+         <node id="xpr0177" label="Lepas Dubuisson, Claude Nicolas"/>
+         <node id="xpr0183" label="Loir, Jean Baptiste"/>
+         <node id="xpr0185" label="Loir, Bernard Jean Baptiste"/>
+         <node id="xpr0193" label="Masson, Etienne"/>
+         <node id="xpr0207" label="Paumier, Nicolas"/>
+         <node id="xpr0221" label="Pirethouy, Jacques"/>
+         <node id="xpr0222" label="Plasnie, Jean"/>
+         <node id="xpr0223" label="Poirin, Jean Baptiste Michel"/>
+         <node id="xpr0232" label="Quirot, Pierre"/>
+         <node id="xpr0233" label="Raymond, Jean François"/>
+         <node id="xpr0236" label="Richard, Pierre Louis"/>
+         <node id="xpr0246" label="Simon, Mathurin"/>
+         <node id="xpr0248" label="Simonet, Nicolas"/>
+         <node id="xpr0264" label="Vuyet, Jean Robert"/>
+      </nodes>
+      <edges>
+         <edge id="edge0001" source="xpr0048" target="xpr0185"/>
+         <edge id="edge0002" source="xpr0232" target="xpr0246"/>
+         <edge id="edge0003" source="xpr0108" target="xpr0015"/>
+         <edge id="edge0004" source="xpr0232" target="xpr0015"/>
+         <edge id="edge0005" source="xpr0017" target="xpr0207"/>
+         <edge id="edge0006" source="xpr0232" target="xpr0015"/>
+         <edge id="edge0007" source="xpr0145" target="xpr0183"/>
+         <edge id="edge0008" source="xpr0113" target="xpr0158"/>
+         <edge id="edge0009" source="xpr0145" target="xpr0017"/>
+         <edge id="edge0010" source="xpr0183" target="xpr0074"/>
+         <edge id="edge0011" source="xpr0048" target="xpr0233"/>
+         <edge id="edge0012" source="xpr0018" target="xpr0113"/>
+         <edge id="edge0013" source="xpr0078" target="xpr0158"/>
+         <edge id="edge0014" source="xpr0232" target="xpr0111"/>
+         <edge id="edge0015" source="xpr0073" target="xpr0183"/>
+         <edge id="edge0016" source="xpr0145" target="xpr0147"/>
+         <edge id="edge0017" source="xpr0232" target="xpr0078"/>
+         <edge id="edge0018" source="xpr0111" target="xpr0097"/>
+         <edge id="edge0019" source="xpr0232" target="xpr0193"/>
+         <edge id="edge0020" source="xpr0207" target="xpr0222"/>
+         <edge id="edge0021" source="xpr0232" target="xpr0222"/>
+         <edge id="edge0022" source="xpr0145" target="xpr0183"/>
+         <edge id="edge0023" source="xpr0232" target="xpr0054"/>
+         <edge id="edge0024" source="xpr0193" target="xpr0054"/>
+         <edge id="edge0025" source="xpr0145" target="xpr0183"/>
+         <edge id="edge0026" source="xpr0145" target="xpr0048"/>
+         <edge id="edge0027" source="xpr0017" target="xpr0183"/>
+         <edge id="edge0028" source="xpr0232" target="xpr0017"/>
+         <edge id="edge0029" source="xpr0177" target="xpr0183"/>
+         <edge id="edge0030" source="xpr0232" target="xpr0111"/>
+         <edge id="edge0031" source="xpr0113" target="xpr0177"/>
+         <edge id="edge0032" source="xpr0183" target="xpr0147"/>
+         <edge id="edge0033" source="xpr0048" target="xpr0183"/>
+         <edge id="edge0034" source="xpr0111" target="xpr0248"/>
+         <edge id="edge0035" source="xpr0158" target="xpr0054"/>
+         <edge id="edge0036" source="xpr0078" target="xpr0158"/>
+         <edge id="edge0037" source="xpr0054" target="xpr0112"/>
+         <edge id="edge0038" source="xpr0232" target="xpr0111"/>
+         <edge id="edge0039" source="xpr0118" target="xpr0100"/>
+         <edge id="edge0040" source="xpr0232" target="xpr0111"/>
+         <edge id="edge0041" source="xpr0183" target="xpr0233"/>
+         <edge id="edge0042" source="xpr0111" target="xpr0246"/>
+         <edge id="edge0043" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0044" source="xpr0232" target="xpr0222"/>
+         <edge id="edge0045" source="xpr0232" target="xpr0111"/>
+         <edge id="edge0046" source="xpr0078" target="xpr0183"/>
+         <edge id="edge0047" source="xpr0207" target="xpr0015"/>
+         <edge id="edge0048" source="xpr0264" target="xpr0160"/>
+         <edge id="edge0049" source="xpr0086" target="xpr0221"/>
+         <edge id="edge0050" source="xpr0158" target="xpr0183"/>
+         <edge id="edge0051" source="xpr0158" target="xpr0232"/>
+         <edge id="edge0052" source="xpr0158" target="xpr0207"/>
+         <edge id="edge0053" source="xpr0160" target="xpr0183"/>
+         <edge id="edge0054" source="xpr0048" target="xpr0100"/>
+         <edge id="edge0055" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0056" source="xpr0073" target="xpr0063"/>
+         <edge id="edge0057" source="xpr0048" target="xpr0183"/>
+         <edge id="edge0058" source="xpr0086" target="xpr0246"/>
+         <edge id="edge0059" source="xpr0100" target="xpr0147"/>
+         <edge id="edge0060" source="xpr0086" target="xpr0207"/>
+         <edge id="edge0061" source="xpr0232" target="xpr0236"/>
+         <edge id="edge0062" source="xpr0145" target="xpr0264"/>
+         <edge id="edge0063" source="xpr0183" target="xpr0014"/>
+         <edge id="edge0064" source="xpr0048" target="xpr0232"/>
+         <edge id="edge0065" source="xpr0183" target="xpr0015"/>
+         <edge id="edge0066" source="xpr0105" target="xpr0183"/>
+         <edge id="edge0067" source="xpr0183" target="xpr0111"/>
+         <edge id="edge0068" source="xpr0183" target="xpr0232"/>
+         <edge id="edge0069" source="xpr0086" target="xpr0158"/>
+         <edge id="edge0070" source="xpr0017" target="xpr0183"/>
+         <edge id="edge0071" source="xpr0112" target="xpr0051"/>
+         <edge id="edge0072" source="xpr0264" target="xpr0145"/>
+         <edge id="edge0073" source="xpr0158" target="xpr0183"/>
+         <edge id="edge0074" source="xpr0018" target="xpr0183"/>
+         <edge id="edge0075" source="xpr0158" target="xpr0183"/>
+         <edge id="edge0076" source="xpr0264" target="xpr0063"/>
+         <edge id="edge0077" source="xpr0100" target="xpr0183"/>
+         <edge id="edge0078" source="xpr0232" target="xpr0177"/>
+         <edge id="edge0079" source="xpr0177" target="xpr0183"/>
+         <edge id="edge0080" source="xpr0232" target="xpr0171"/>
+         <edge id="edge0081" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0082" source="xpr0073" target="xpr0063"/>
+         <edge id="edge0083" source="xpr0232" target="xpr0147"/>
+         <edge id="edge0084" source="xpr0232" target="xpr0017"/>
+         <edge id="edge0085" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0086" source="xpr0232" target="xpr0100"/>
+         <edge id="edge0087" source="xpr0232" target="xpr0017"/>
+         <edge id="edge0088" source="xpr0147" target="xpr0108"/>
+         <edge id="edge0089" source="xpr0246" target="xpr0074"/>
+         <edge id="edge0090" source="xpr0100" target="xpr0193"/>
+         <edge id="edge0091" source="xpr0183" target="xpr0236"/>
+         <edge id="edge0092" source="xpr0232" target="xpr0145"/>
+         <edge id="edge0093" source="xpr0232" target="xpr0193"/>
+         <edge id="edge0094" source="xpr0048" target="xpr0183"/>
+         <edge id="edge0095" source="xpr0183" target="xpr0232"/>
+         <edge id="edge0096" source="xpr0183" target="xpr0015"/>
+         <edge id="edge0097" source="xpr0232" target="xpr0017"/>
+         <edge id="edge0098" source="xpr0232" target="xpr0158"/>
+         <edge id="edge0099" source="xpr0160" target="xpr0246"/>
+         <edge id="edge0100" source="xpr0086" target="xpr0158"/>
+         <edge id="edge0101" source="xpr0048" target="xpr0015"/>
+         <edge id="edge0102" source="xpr0158" target="xpr0183"/>
+         <edge id="edge0103" source="xpr0183" target="xpr0111"/>
+         <edge id="edge0104" source="xpr0158" target="xpr0183"/>
+         <edge id="edge0105" source="xpr0073" target="xpr0111"/>
+         <edge id="edge0106" source="xpr0232" target="xpr0100"/>
+         <edge id="edge0107" source="xpr0232" target="xpr0207"/>
+         <edge id="edge0108" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0109" source="xpr0232" target="xpr0078"/>
+         <edge id="edge0110" source="xpr0171" target="xpr0183"/>
+         <edge id="edge0111" source="xpr0018" target="xpr0112"/>
+         <edge id="edge0112" source="xpr0232" target="xpr0183"/>
+         <edge id="edge0113" source="xpr0017" target="xpr0183"/>
+         <edge id="edge0114" source="xpr0264" target="xpr0183"/>
+         <edge id="edge0115" source="xpr0100" target="xpr0183"/>
+         <edge id="edge0116" source="xpr0158" target="xpr0147"/>
+         <edge id="edge0117" source="xpr0264" target="xpr0232"/>
+         <edge id="edge0118" source="xpr0183" target="xpr0015"/>
+         <edge id="edge0119" source="xpr0078" target="xpr0158"/>
+         <edge id="edge0120" source="xpr0232" target="xpr0112"/>
+         <edge id="edge0121" source="xpr0232" target="xpr0147"/>
+         <edge id="edge0122" source="xpr0232" target="xpr0183"/>
+      </edges>
+   </graph>
+</gexf>
