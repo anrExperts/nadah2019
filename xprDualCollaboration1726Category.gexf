@@ -33,7 +33,7 @@
          </node>
          <node id="xpr0048" label="Caulle, Martin">
             <attvalues>
-               <attvalue for="0" value="E puis A"/>
+               <attvalue for="0" value="T"/>
             </attvalues>
          </node>
          <node id="xpr0051" label="Chastelain, Nicolas Isidore">
@@ -43,12 +43,12 @@
          </node>
          <node id="xpr0054" label="Chauveau, René Bonaventure">
             <attvalues>
-               <attvalue for="0" value="A puis E"/>
+               <attvalue for="0" value="T"/>
             </attvalues>
          </node>
          <node id="xpr0063" label="Cudeville, Jacques">
             <attvalues>
-               <attvalue for="0" value="arpenteur (E)"/>
+               <attvalue for="0" value="E"/>
             </attvalues>
          </node>
          <node id="xpr0073" label="De Bias Aubry, François">
@@ -83,7 +83,7 @@
          </node>
          <node id="xpr0105" label="Duval, Charles">
             <attvalues>
-               <attvalue for="0" value="arpenteur (E)"/>
+               <attvalue for="0" value="E"/>
             </attvalues>
          </node>
          <node id="xpr0108" label="Fauvel, Jean">
