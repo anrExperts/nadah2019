@@ -13,9 +13,15 @@
         <description>1726 network</description>
       </meta>
       <graph defaultedgetype="undirected">
+        <attributes class="node">
+          <attribute id="0" title="category" type="string"/>
+        </attributes>
         <nodes>
           <xsl:for-each select="$experts">
             <node id="{./@xml:id}" label="{concat(./persName[1]/surname, ', ', ./persName[1]/forename)}">
+              <attvalues>
+                <attvalue for="0" value="{./event[@type='officePurchase']/category}"/>
+              </attvalues>
             </node>
           </xsl:for-each>
         </nodes>
